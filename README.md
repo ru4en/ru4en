@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ru4en
-- 👀 I’m a Computer Science student.
+- 👀 I’m a Computer Science student at the University Of Reading.
 - 🌱 I’m currently learning JAVA.
 - 📫 You can contact me via email at ru4en@pm.me
 
