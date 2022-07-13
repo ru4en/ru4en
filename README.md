@@ -1,7 +1,8 @@
 - 👋 Hello, my name is Ruben Lopes.
 - 👀 I am a student studying Computer Science at the University of Reading.
-- 🌱 As part of my course, I'm currently learning MATLAB, C and C++.
-- 🔧 Python, Bash, SQL, and Javascript are among the languages in which I am confident in.
+- 👨🏽‍🔬Cuttently working as a Computational scientist at the Science and Technology Facilities Council in RAL.
+- 🌱 As part of my course, I Learnt MATLAB, C and C++.
+- 🔧 Python, Bash, SQL, and Javascript are amongst the languages in which I am confident in.
 - 📫 You can contact me by email at ru4en@pm.me or by filling out my contact me form on my [website](https://ru4en.github.io). 
 
 <!---
