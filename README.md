@@ -1,5 +1,4 @@
 - 👋 Hello, my name is Ruben.
-- 👀 I am currently a placement year student studying Computer Science at the University of Reading and interning at HP.
 - 🎯 My interests include programming and configuring services, particularly self-hosting them locally. Additionally, I occasionally fine-tuning large language models and vision models, as well as deploying and running them locally.
 - 🔧 C/C++, Python, Bash, SQL, and JavaScript are amongst the languages in which I am confident.
 - 📫 You can contact me by email at hello@rubenlopes.uk or by filling out my [contact me form](https://www.rubenlopes.uk) on my website.
